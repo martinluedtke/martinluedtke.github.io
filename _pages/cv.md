@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-  * Oct 2012 – present: **Postdoctoral researcher**, Rijksuniversiteit Groningen (Netherlands)\
+  * Oct 2021 – present: **Postdoctoral researcher**, Rijksuniversiteit Groningen (Netherlands)\
     Research on non-abelian Chabauty in the group of [Steffen Müller](https://www.rug.nl/staff/steffen.muller/)
   * Oct 2020 – Sep 2021: **Postdoctoral researcher**, Goethe-Universität Frankfurt am Main (Germany)\
     Research on anabelian geometry in the [GAUS](https://crc326gaus.de/) cluster
