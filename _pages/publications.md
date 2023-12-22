@@ -39,7 +39,7 @@ author_profile: true
     [urn:nbn:de:hebis:30:3-574318](https://nbn-resolving.org/urn:nbn:de:hebis:30:3-574318)
 
   * [Birational Anabelian Geometry of Curves over Algebraically Closed Fields in Arbitrary Characteristic](https://arxiv.org/pdf/1706.01713.pdf)\
-    _Israel Journal of Mathematics_ **227**, 987–1011\
+    _Israel Journal of Mathematics_ **227** (2018), 987–1011\
     [https://doi.org/10.1007/s11856-018-1757-2](https://doi.org/10.1007/s11856-018-1757-2)\
     [arXiv:1706.01713](https://arxiv.org/pdf/1706.01713)
 
