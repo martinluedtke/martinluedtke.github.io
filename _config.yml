@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Martin Lüdtke"
 title_separator          : "-"
 name                     : &name "Martin Lüdtke"
-description              : &description "personal description"
+description              : &description "Personal website of Martin Lüdtke"
 url                      : https://martinluedtke.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martinluedtke/martinluedtke.github.io"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "rNcYqlJLNhggCxC-cqrsq5WMfyTX9fjuzSH46tmA1Ec"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
