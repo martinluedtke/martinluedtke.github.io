@@ -38,3 +38,7 @@ author_profile: true
 ## Other
 
   * STIMULUS Volunteer at Long Road Sixth Form College, Cambridge, UK (2013)
+
+## Supervised students
+
+  * Niek Veltman (BSc): "Linear relations of multiple zeta values" (2022)
