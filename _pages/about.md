@@ -54,7 +54,7 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     for S-integral points on _affine_ hyperbolic curves. We also obtain bounds on the
     number of S-integral points whenever these inequalities are satisfied.
     The paper is
-    ([here](https://doi.org/10.1093/imrn/rnad185){:target="_blank"}{:rel="noopener noreferrer"}).
+    [here](https://doi.org/10.1093/imrn/rnad185){:target="_blank"}{:rel="noopener noreferrer"}.
 
   * When applying the Chabauty–Kim method to study S-integral points on _affine_
     hyperbolic curves, a refined version of the method due to A. Betts and N. Dogra
@@ -63,11 +63,11 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     solve the S-unit equation in cases where S contains 2 primes, which had been
     unaccessible with the unrefined Chabauty–Kim method. The paper is
     [here](https://arxiv.org/pdf/2106.10145.pdf). See also the associated
-    ([Sage code](https://github.com/martinluedtke/dcw_coefficients){:target="_blank"}{:rel="noopener noreferrer"}).  
+    [Sage code](https://github.com/martinluedtke/dcw_coefficients){:target="_blank"}{:rel="noopener noreferrer"}.  
     Recently, I extended these calculations to higher depth and proved Kim's
     conjecture for _S = {2,3}_ and all auxiliary primes _p < 10,000_.
     The Sage code is
-    ([here](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"})
+    [here](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"}
     and the preprint will be available soon.
 
   * The p-adic section conjecture for a smooth projective curve X over a
