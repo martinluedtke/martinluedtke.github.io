@@ -65,7 +65,7 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     [here](https://arxiv.org/pdf/2106.10145.pdf). See also the associated
     ([Sage code](https://github.com/martinluedtke/dcw_coefficients){:target="_blank"}{:rel="noopener noreferrer"}).  
     Recently, I extended these calculations to higher depth and proved Kim's
-    conjecture for _S = {2,3}_ and all auxiliary primes _p < 100,000_.
+    conjecture for _S = {2,3}_ and all auxiliary primes _p < 10,000_.
     The Sage code is
     ([here](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"})
     and the preprint will be available soon.
