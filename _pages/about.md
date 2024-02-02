@@ -46,8 +46,7 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     by verifying Kim's conjecture for almost all choices of p. We successfully
     carried this out for **Z**[1/2]-integral points on the thrice-punctured line, thereby
     obtaining the first example of a curve where Kim's conjecture is proved for infinitely
-    many choices of p. The preprint is
-    ([here](https://arxiv.org/pdf/2305.09462.pdf){:target="_blank"}{:rel="noopener noreferrer"}).
+    many choices of p. The preprint is [here](https://arxiv.org/pdf/2305.09462.pdf).
 
   * For a smooth projective hyperbolic curve the classical Chabauty method applies whenever
     the rank-genus inequality _g – r > 0_ holds; the quadratic Chabauty method applies whenever
@@ -63,8 +62,8 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     we carried out the first explicit calculations using this method. We could
     solve the S-unit equation in cases where S contains 2 primes, which had been
     unaccessible with the unrefined Chabauty–Kim method. The paper is
-    ([here](https://arxiv.org/pdf/2106.10145.pdf){:target="_blank"}{:rel="noopener noreferrer"}).
-    See also the associated [Sage code](https://github.com/martinluedtke/dcw_coefficients).  
+    [here](https://arxiv.org/pdf/2106.10145.pdf). See also the associated
+    ([Sage code](https://github.com/martinluedtke/dcw_coefficients){:target="_blank"}{:rel="noopener noreferrer"}).  
     Recently, I extended these calculations to higher depth and proved Kim's
     conjecture for _S = {2,3}_ and all auxiliary primes _p < 100,000_.
     The Sage code is
@@ -77,4 +76,4 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     the birational variant, where X is replaced by its generic point, was known.
     In my dissertation I extended this result to larger localisations of X.
     The dissertation is
-    ([here](https://publikationen.ub.uni-frankfurt.de/files/57431/thesis.pdf){:target="_blank"}{:rel="noopener noreferrer"}).
+    [here](https://publikationen.ub.uni-frankfurt.de/files/57431/thesis.pdf).
