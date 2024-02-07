@@ -13,6 +13,10 @@ author_profile: true
 
 ## Preprints
 
+  * [Refined Chabauty--Kim calculations for the thrice-punctured line over _**Z**[1/6]_](https://arxiv.org/pdf/2402.03573.pdf)\
+    January 2024, submitted
+    [arXiv:2402.03573](https://arxiv.org/pdf/2402.03573)
+    
   * [Chabauty–Kim and the Section Conjecture for locally geometric sections](https://arxiv.org/pdf/2305.09462.pdf)\
     with L. A. Betts and T. Kumpitsch\
     May 2023, submitted\
