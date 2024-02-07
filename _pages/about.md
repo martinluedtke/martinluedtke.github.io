@@ -34,6 +34,21 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
 
 ### Recent research
 
+  * When applying the Chabauty–Kim method to study S-integral points on _affine_
+    hyperbolic curves, a refined version of the method due to A. Betts and N. Dogra
+    often gives stronger results. The first explicit calculations using this method
+    were carried out by our project group at the 2020 Arizona Winter School.
+    We could solve the _S_-unit equation in cases where _S_ contains 2 primes
+    (see [here](https://arxiv.org/pdf/2106.10145.pdf) for the paper and
+    [here](https://github.com/martinluedtke/dcw_coefficients){:target="_blank"}{:rel="noopener noreferrer"}
+    for the Sage code). However, these calculations in depth 2 were insufficient to
+    verify Kim's conjecture for _S = {2,3}_ for any choice of auxiliary prime _p_.
+    Recently, I derived new Kim functions for the Chabauty–Kim locus in depth 4
+    and used them to verify Kim's conjecture for _S = {2,3}_ for all _p < 10,000_.
+    The preprint is [here](https://arxiv.org/pdf/2402.03573.pdf) and the
+    accompanying Sage code is
+    [here](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"}.
+
   * With D. Corwin and I. Dan-Cohen, we are developing and applying the mixed Tate motivic
     Chabauty–Kim method for the thrice-punctured line beyond the polylogarithmic quotient
     of the fundamental group. We obtain new constraints on Chabauty–Kim loci
@@ -55,20 +70,6 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     number of S-integral points whenever these inequalities are satisfied.
     The paper is
     [here](https://doi.org/10.1093/imrn/rnad185){:target="_blank"}{:rel="noopener noreferrer"}.
-
-  * When applying the Chabauty–Kim method to study S-integral points on _affine_
-    hyperbolic curves, a refined version of the method due to A. Betts and N. Dogra
-    often gives stronger results. With a project group at the 2020 Arizona Winter School
-    we carried out the first explicit calculations using this method. We could
-    solve the S-unit equation in cases where S contains 2 primes, which had been
-    unaccessible with the unrefined Chabauty–Kim method. The paper is
-    [here](https://arxiv.org/pdf/2106.10145.pdf). See also the associated
-    [Sage code](https://github.com/martinluedtke/dcw_coefficients){:target="_blank"}{:rel="noopener noreferrer"}.  
-    Recently, I extended these calculations to higher depth and proved Kim's
-    conjecture for _S = {2,3}_ and all auxiliary primes _p < 10,000_.
-    The Sage code is
-    [here](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"}
-    and the preprint will be available soon.
 
   * The p-adic section conjecture for a smooth projective curve X over a
     finite extension K of _**Q**<sub>p</sub>_ predicts that every section of the
