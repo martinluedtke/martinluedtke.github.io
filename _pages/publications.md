@@ -15,7 +15,7 @@ author_profile: true
 
   * [Refined Chabauty--Kim calculations for the thrice-punctured line over _**Z**[1/6]_](https://arxiv.org/pdf/2402.03573.pdf)\
     January 2024, submitted\
-    [arXiv:2402.03573](https://arxiv.org/pdf/2402.03573){:target="_blank"}{:rel="noopener noreferrer"}\
+    [arXiv:2402.03573](https://arxiv.org/abs/2402.03573){:target="_blank"}{:rel="noopener noreferrer"}\
     Sage code: [https://github.com/martinluedtke/RefinedCK](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"}
 
   * [Chabauty–Kim and the Section Conjecture for locally geometric sections](https://arxiv.org/pdf/2305.09462.pdf)\
@@ -46,7 +46,7 @@ author_profile: true
   * [Birational Anabelian Geometry of Curves over Algebraically Closed Fields in Arbitrary Characteristic](https://arxiv.org/pdf/1706.01713.pdf)\
     _Israel Journal of Mathematics_ **227** (2018), 987–1011\
     [https://doi.org/10.1007/s11856-018-1757-2](https://doi.org/10.1007/s11856-018-1757-2){:target="_blank"}{:rel="noopener noreferrer"}\
-    [arXiv:1706.01713](https://arxiv.org/pdf/1706.01713){:target="_blank"}{:rel="noopener noreferrer"}
+    [arXiv:1706.01713](https://arxiv.org/abs/1706.01713){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Expository writing
 
