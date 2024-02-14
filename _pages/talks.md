@@ -16,7 +16,7 @@ author_profile: true
   * Feb 2024 (*prospective): Algebraic Days of Gabon, Libreville\
     Course on fundamental groups in arithmetic and geometry
 
-  * Feb 2024 (*prospective): Winter Workshop Chabauty–Kim, Heidelberg ([Website](https://tholzschuh.github.io/chabauty-kim-24/){:target="_blank"}{:rel="noopener noreferrer"})\
+  * Feb 2024: Winter Workshop Chabauty–Kim, Heidelberg ([Website](https://tholzschuh.github.io/chabauty-kim-24/){:target="_blank"}{:rel="noopener noreferrer"}, [Lecture notes](/files/foundations_of_CK_heidelberg.pdf))\
     Two lectures on the foundations of Chabauty–Kim theory
 
   * Nov 2023: Rational points consortium meeting, Utrecht ([Website](https://www.rationalpoints.nl/){:target="_blank"}{:rel="noopener noreferrer"})\
