@@ -65,7 +65,7 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
 
   * For a smooth projective hyperbolic curve the classical Chabauty method applies whenever
     the rank-genus inequality _g – r > 0_ holds; the quadratic Chabauty method applies whenever
-    _g – r + ρ - 1 > 0_ holds. With J. S. Müller and M. Leonhardt we determined the analogous inequalities
+    _g – r + ρ – 1 > 0_ holds. With J. S. Müller and M. Leonhardt we determined the analogous inequalities
     for S-integral points on _affine_ hyperbolic curves. We also obtain bounds on the
     number of S-integral points whenever these inequalities are satisfied.
     The paper is
