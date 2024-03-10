@@ -13,7 +13,7 @@ author_profile: true
 {% endif %}
 
 
-  * Feb 2024 (*prospective): Algebraic Days of Gabon, Libreville\
+  * Feb 2024: Algebraic Days of Gabon, Libreville\
     Course on fundamental groups in arithmetic and geometry
 
   * Feb 2024: Winter Workshop Chabauty–Kim, Heidelberg ([Website](https://tholzschuh.github.io/chabauty-kim-24/){:target="_blank"}{:rel="noopener noreferrer"})\
