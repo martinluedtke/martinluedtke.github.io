@@ -29,7 +29,7 @@ author_profile: true
   * May 2023: Online "Selminar" on Selmer schemes by M. Kim\
     Mixed Tate Selmer schemes beyond the polylog quotient ([Slides](/files/selminar2023-slides.pdf))
 
-  * Jan 2023: AGNT at Ben Gurion University, Be'er Scheva (online)\
+  * Jan 2023: AGNT at Ben Gurion University, Be'er Sheva (online)\
     Non-abelian Chabauty for the thrice-punctured line and the Selmer section conjecture
 
   * Nov 2022: GAUS Seminar, Heidelberg\
