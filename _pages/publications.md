@@ -27,7 +27,7 @@ author_profile: true
 
   * [Refined Selmer equations for the thrice-punctured line in depth two](https://arxiv.org/pdf/2106.10145.pdf)\
     with A. Best, L. A. Betts, T. Kumpitsch, A. McAndrew, L. Qian, E. Studnia, Y. Xu \
-    _Mathematics of Computation_, published electronically: October 24, 2023 \
+    _Math. Comp._ **93** (2024), 1497–1527 \
     [https://doi.org/10.1090/mcom/3898](https://doi.org/10.1090/mcom/3898){:target="_blank"}{:rel="noopener noreferrer"}\
     [arXiv:2106.10145](https://arxiv.org/abs/2106.10145){:target="_blank"}{:rel="noopener noreferrer"}\
     Associated Sage code: [https://github.com/martinluedtke/dcw_coefficients](https://github.com/martinluedtke/dcw_coefficients){:target="_blank"}{:rel="noopener noreferrer"}
