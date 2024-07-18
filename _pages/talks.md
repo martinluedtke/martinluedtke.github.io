@@ -12,8 +12,8 @@ author_profile: true
 
 {% endif %}
 
-  * Jul 2024: Algorithmic Number Theory Symposium ANTS XVI, Massachusetts Institute of Technology [Website](https://antsmath.org/ANTSXVI/){:target="_blank"}{:rel="noopener noreferrer"})\
-    Refined Chabauty–Kim computations for the thrice-punctured line over **Z**[1/6] ([Slides][/files/ants2024.pdf])
+  * Jul 2024: Algorithmic Number Theory Symposium ANTS XVI, Massachusetts Institute of Technology ([Website](https://antsmath.org/ANTSXVI/){:target="_blank"}{:rel="noopener noreferrer"})\
+    Refined Chabauty–Kim computations for the thrice-punctured line over **Z**[1/6] ([Slides](/files/ants2024.pdf))
 
   * Feb 2024: Algebraic Days of Gabon, Libreville [Website](https://indico.math.cnrs.fr/event/11410/overview){:target="_blank"}{:rel="noopener noreferrer"})\
     Course on fundamental groups in arithmetic and geometry
