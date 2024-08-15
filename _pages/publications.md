@@ -14,7 +14,7 @@ author_profile: true
 ## Preprints
 
   * [Refined Chabauty--Kim computations for the thrice-punctured line over _**Z**[1/6]_](https://arxiv.org/pdf/2402.03573.pdf)\
-    January 2024, submitted\
+    accepted for [ANTS XVI](https://antsmath.org/ANTSXVI/index.html){:target="_blank"}{:rel="noopener noreferrer"} proceedings in _Research in Number Theory_\
     [arXiv:2402.03573](https://arxiv.org/abs/2402.03573){:target="_blank"}{:rel="noopener noreferrer"}\
     Sage code: [https://github.com/martinluedtke/RefinedCK](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"}
 
