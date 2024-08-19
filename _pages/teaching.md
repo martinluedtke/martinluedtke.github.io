@@ -9,6 +9,7 @@ author_profile: true
 
 ## University of Groningen
 
+  * Topics in Algebra and Geometry (2024 Ib)
   * Group Theory (2023/24 Ia)
   * Advanced Algebraic Structures (2022/23 Ib), with J. S. Müller
   * Group Theory (2022/23 Ia), with P. Kılıçer
