@@ -12,6 +12,9 @@ author_profile: true
 
 {% endif %}
 
+  * Oct 2024: Oberwolfach Workshop Anabelian Geometry and Representations of Fundamental Groups, Oberwolfach\
+    Non-abelian Chabauty and the Selmer Section Conjecture
+
   * Jul 2024: Algorithmic Number Theory Symposium ANTS XVI, Massachusetts Institute of Technology ([Website](https://antsmath.org/ANTSXVI/){:target="_blank"}{:rel="noopener noreferrer"})\
     Refined Chabauty–Kim computations for the thrice-punctured line over **Z**[1/6] ([Slides](/files/ants2024.pdf))
 
