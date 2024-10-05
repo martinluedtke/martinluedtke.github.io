@@ -12,7 +12,7 @@ author_profile: true
 
 {% endif %}
 
-  * Oct 2024: Oberwolfach Workshop Anabelian Geometry and Representations of Fundamental Groups, Oberwolfach\
+  * Oct 2024: Oberwolfach Workshop "Anabelian Geometry and Representations of Fundamental Groups", Oberwolfach\
     Non-abelian Chabauty and the Selmer Section Conjecture
 
   * Jul 2024: Algorithmic Number Theory Symposium ANTS XVI, Massachusetts Institute of Technology ([Website](https://antsmath.org/ANTSXVI/){:target="_blank"}{:rel="noopener noreferrer"})\
@@ -54,5 +54,5 @@ author_profile: true
   * Jul 2021: Groningen algebra seminar (online)\
     Refined Selmer equations for the thrice-punctured line
 
-  * Mar 2021: Oberwolfach workshop Homotopic and Geometric Galois Theory\
+  * Mar 2021: Oberwolfach workshop "Homotopic and Geometric Galois Theory"\
     The p-adic section conjecture for localisations of curves ([Notes](/files/oberwolfach2021.pdf))
