@@ -12,6 +12,9 @@ author_profile: true
 
 {% endif %}
 
+  * Oct 2024: Algebraic and arithmetic geometry seminar, Scuola Normale Superiore, Pisa\
+    Non-abelian Chabauty and the Selmer Section Conjecture ([Slides](/files/pisa2024.pdf))
+
   * Oct 2024: Oberwolfach Workshop "Anabelian Geometry and Representations of Fundamental Groups", Oberwolfach\
     Non-abelian Chabauty and the Selmer Section Conjecture
 
