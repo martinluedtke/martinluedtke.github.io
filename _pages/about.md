@@ -15,11 +15,11 @@ I am a postdoctoral researcher in the group of Steffen Müller at the University
 I am interested in arithmetic geometry, specifically the use of
 fundamental groups to study rational and integral points of schemes.
 The Chabauty–Kim method, while rooted in deep considerations about the motivic fundamental group
-and still being largely conjectural, has nevertheless proved very successful
-in explicitly solving polynomial equations in recent years. I am exploring both the theoretical
-and practical aspects of the method, in particular in the setting of S-integral points on
-affine hyperbolic curves. What I find exciting about this line of research is that deep ideas
-from geometry can be used to solve very concrete problems from number theory.
+and still being largely conjectural, has proved very successful in explicitly solving polynomial
+equations in recent years. I am exploring both the theoretical and practical aspects of the method,
+in particular in the setting of S-integral points on affine hyperbolic curves. What I find exciting
+about this line of research is that deep ideas from geometry can be used to solve very concrete
+problems from number theory.
 
 I am moreover interested in Grothendieck's conjectures
 on anabelian geometry which he formulated in his letter to Faltings. There, the Section Conjecture
@@ -60,7 +60,7 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     we showed that one can prove the "locally geometric" version of Grothendieck's Section Conjecture
     by verifying Kim's conjecture for almost all choices of p. We successfully
     carried this out for **Z**[1/2]-integral points on the thrice-punctured line, thereby
-    obtaining the first example of a curve where Kim's conjecture is proved for infinitely
+    obtaining the first nontrivial example of a curve where Kim's conjecture is proved for infinitely
     many choices of p. The preprint is [here](https://arxiv.org/pdf/2305.09462.pdf).
 
   * For a smooth projective hyperbolic curve the classical Chabauty method applies whenever
@@ -78,3 +78,7 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     In my dissertation I extended this result to larger localisations of X.
     The dissertation is
     [here](https://publikationen.ub.uni-frankfurt.de/files/57431/thesis.pdf).
+
+### Algebra Seminar
+
+I am organising the algebra seminar at the University of Groningen. E-mail me if you are interested in giving a talk.
