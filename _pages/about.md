@@ -41,7 +41,7 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     We could solve the _S_-unit equation in cases where _S_ contains 2 primes
     (see [here](https://arxiv.org/pdf/2106.10145.pdf) for the paper and
     [here](https://github.com/martinluedtke/dcw_coefficients){:target="_blank"}{:rel="noopener noreferrer"}
-    for the Sage code). However, these calculations in depth 2 were insufficient to
+    for the Sage code). These calculations in depth 2 were insufficient to
     verify Kim's conjecture for _S = {2,3}_ for any choice of auxiliary prime _p_.
     Recently, I derived new Kim functions for the Chabauty–Kim locus in depth 4
     and used them to verify Kim's conjecture for _S = {2,3}_ for all _p < 10,000_.
@@ -70,6 +70,8 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     number of S-integral points whenever these inequalities are satisfied.
     The paper is
     [here](https://doi.org/10.1093/imrn/rnad185){:target="_blank"}{:rel="noopener noreferrer"}.
+    In ongoing work with Leonhardt we are developing an explicit method for determining
+    _S_-integral points on affine curves using Chabauty on the generalised Jacobian.
 
   * The p-adic section conjecture for a smooth projective curve X over a
     finite extension K of _**Q**<sub>p</sub>_ predicts that every section of the
