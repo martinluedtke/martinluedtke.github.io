@@ -23,7 +23,7 @@ author_profile: true
 ## Publications
 
   * [Refined Chabauty--Kim computations for the thrice-punctured line over _**Z**[1/6]_](https://arxiv.org/pdf/2402.03573.pdf)\
-    _Res. Number Theory_ **11**, 24 (2025)_ \
+    _Res. Number Theory_ **11**, 24 (2025) \
     [https://doi.org/10.1007/s40993-024-00597-4](https://doi.org/10.1007/s40993-024-00597-4){:target="_blank"}{:rel="noopener noreferrer"}\
     Sage code: [https://github.com/martinluedtke/RefinedCK](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"}
 
