@@ -13,10 +13,7 @@ author_profile: true
 
 ## Preprints
 
-  * [Refined Chabauty--Kim computations for the thrice-punctured line over _**Z**[1/6]_](https://arxiv.org/pdf/2402.03573.pdf)\
-    accepted for [ANTS XVI](https://antsmath.org/ANTSXVI/index.html){:target="_blank"}{:rel="noopener noreferrer"} proceedings in _Research in Number Theory_\
-    [arXiv:2402.03573](https://arxiv.org/abs/2402.03573){:target="_blank"}{:rel="noopener noreferrer"}\
-    Sage code: [https://github.com/martinluedtke/RefinedCK](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"}
+
 
   * [Chabauty–Kim and the Section Conjecture for locally geometric sections](https://arxiv.org/pdf/2305.09462.pdf)\
     with L. A. Betts and T. Kumpitsch\
@@ -24,6 +21,11 @@ author_profile: true
     [arXiv:2305.09462](https://arxiv.org/abs/2305.09462){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Publications
+
+  * [Refined Chabauty--Kim computations for the thrice-punctured line over _**Z**[1/6]_](https://arxiv.org/pdf/2402.03573.pdf)\
+    _Res. Number Theory_ **11**, 24 (2025)_ \
+    [https://doi.org/10.1007/s40993-024-00597-4](https://doi.org/10.1007/s40993-024-00597-4){:target="_blank"}{:rel="noopener noreferrer"}\
+    Sage code: [https://github.com/martinluedtke/RefinedCK](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"}
 
   * [Refined Selmer equations for the thrice-punctured line in depth two](https://arxiv.org/pdf/2106.10145.pdf)\
     with A. Best, L. A. Betts, T. Kumpitsch, A. McAndrew, L. Qian, E. Studnia, Y. Xu \

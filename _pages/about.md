@@ -45,7 +45,7 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     verify Kim's conjecture for _S = {2,3}_ for any choice of auxiliary prime _p_.
     Recently, I derived new Kim functions for the Chabauty–Kim locus in depth 4
     and used them to verify Kim's conjecture for _S = {2,3}_ for all _p < 10,000_.
-    The preprint is [here](https://arxiv.org/pdf/2402.03573.pdf) and the
+    The paper is [here](https://doi.org/10.1007/s40993-024-00597-4) and the
     accompanying Sage code is
     [here](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"}.
 
