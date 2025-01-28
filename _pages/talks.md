@@ -12,6 +12,9 @@ author_profile: true
 
 {% endif %}
 
+  * Jan 2025: Algebraic Geometry Seminar, Utrecht\
+    Refined Chabauty–Kim for the thrice-punctured line over **Z**[1/6] ([Slides](/files/utrecht2025.pdf))
+
   * Oct 2024: Algebraic and arithmetic geometry seminar, Scuola Normale Superiore, Pisa\
     Non-abelian Chabauty and the Selmer Section Conjecture ([Slides](/files/pisa2024.pdf))
 
