@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the group of Steffen Müller at the University of Groningen, Netherlands.
+I am a guest researcher at the Max Planck Institute for Mathematics, Bonn.
+Until January 2025 I was a postdoc in the group of Steffen Müller at the University of Groningen, Netherlands.
 
 ### Research interests
 
