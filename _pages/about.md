@@ -84,4 +84,4 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
 
 ### Algebra Seminar
 
-I am organising the algebra seminar at the University of Groningen. E-mail me if you are interested in giving a talk.
+I was the organiser of the algebra seminar at the University of Groningen until January 2025. Please e-mail [Oliver Lorscheid](https://lorscheid.org/) if you are interested in giving a talk.
