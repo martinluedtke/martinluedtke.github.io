@@ -12,6 +12,9 @@ author_profile: true
 
 {% endif %}
 
+  * Feb 2025: Workshop on Geometry, Number Theory, Algorithms and Applications in Cryptography, Groningen\
+    Refined Chabauty–Kim for the thrice-punctured line over **Z**[1/6] ([Slides](/files/groningen2025.pdf))
+
   * Jan 2025: Algebraic Geometry Seminar, Utrecht\
     Refined Chabauty–Kim for the thrice-punctured line over **Z**[1/6] ([Slides](/files/utrecht2025.pdf))
 
