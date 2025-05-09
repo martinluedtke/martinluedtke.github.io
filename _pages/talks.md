@@ -13,7 +13,7 @@ author_profile: true
 {% endif %}
 
   * May 2025: GAUS Seminar, Heidelberg\
-    Refined Chabauty–Kim computations for the thrice-punctured line over **Z**[1/6]([Slides](/files/heidelberg2025.pdf))
+    Refined Chabauty–Kim computations for the thrice-punctured line over **Z**[1/6] ([Slides](/files/heidelberg2025.pdf))
     
   * Apr 2025: MPIM Number Theory Lunch Seminar, Bonn\
     Refined Chabauty–Kim for the thrice-punctured line ([Slides](/files/mpi2025.pdf))
