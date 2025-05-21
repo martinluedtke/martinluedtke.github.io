@@ -11,6 +11,8 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
 {% endif %}
+  * May 2025: AGNT at Ben Gurion University, Be'er Sheva (online)\
+    Refined Chabauty–Kim computations for the thrice-punctured line over **Z**[1/6] ([Slides](/files/bgu2025.pdf))
 
   * May 2025: GAUS Seminar, Heidelberg\
     Refined Chabauty–Kim computations for the thrice-punctured line over **Z**[1/6] ([Slides](/files/heidelberg2025.pdf))
