@@ -33,7 +33,7 @@ to the realm of explicit calculations.
 
 Chabauty–Kim method, section conjecture, arithmetic fundamental group, rational points
 
-### Recent research
+### Recent and current research
 
   * When applying the Chabauty–Kim method to study S-integral points on _affine_
     hyperbolic curves, a refined version of the method due to A. Betts and N. Dogra
@@ -49,12 +49,21 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     The paper is [here](https://doi.org/10.1007/s40993-024-00597-4) and the
     accompanying Sage code is
     [here](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"}.
+  
+  * In ongoing work with Marius Leonhardt I am developing a Chabauty–Coleman method for
+    determining S-integral points on affine curves using the generalised Jacobian. 
+    This method is applicable whenever a certain inequality involving the Mordell–Weil rank,
+    the genus, the number of cusps, and the size of S is satisfied. This is the analogue
+    of the rank-genus inequality in the classical Chabauty method. This inequality
+    and its non-abelian generalisation to the quadratic Chabauty method were first derived
+    in joint work with J. S. Müller and M. Leonhardt. The paper is
+    [here](https://doi.org/10.1093/imrn/rnad185){:target="_blank"}{:rel="noopener noreferrer"}.
 
   * With D. Corwin and I. Dan-Cohen, we are developing and applying the mixed Tate motivic
     Chabauty–Kim method for the thrice-punctured line beyond the polylogarithmic quotient
     of the fundamental group. We obtain new constraints on Chabauty–Kim loci
     by using functions involving p-adic _multiple_ polylogarithms (rather than just single
-    polylogarithms). The preprint will be available soon.
+    polylogarithms).
 
   * Kim's conjecture predicts that the set of p-adic points produced by the Chabauty–Kim method
     agrees precisely with the set of S-integral points of the curve. With A. Betts and T. Kumpitsch
@@ -63,16 +72,6 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     carried this out for **Z**[1/2]-integral points on the thrice-punctured line, thereby
     obtaining the first nontrivial example of a curve where Kim's conjecture is proved for infinitely
     many choices of p. The preprint is [here](https://arxiv.org/pdf/2305.09462.pdf).
-
-  * For a smooth projective hyperbolic curve the classical Chabauty method applies whenever
-    the rank-genus inequality _g – r > 0_ holds; the quadratic Chabauty method applies whenever
-    _g – r + ρ – 1 > 0_ holds. With J. S. Müller and M. Leonhardt we determined the analogous inequalities
-    for S-integral points on _affine_ hyperbolic curves. We also obtain bounds on the
-    number of S-integral points whenever these inequalities are satisfied.
-    The paper is
-    [here](https://doi.org/10.1093/imrn/rnad185){:target="_blank"}{:rel="noopener noreferrer"}.
-    In ongoing work with Leonhardt we are developing an explicit method for determining
-    _S_-integral points on affine curves using Chabauty on the generalised Jacobian.
 
   * The p-adic section conjecture for a smooth projective curve X over a
     finite extension K of _**Q**<sub>p</sub>_ predicts that every section of the
