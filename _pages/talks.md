@@ -14,7 +14,7 @@ author_profile: true
   * June 2025: 33èmes Journées Arithmétiques, Luxembourg\
     Affine Chabauty I ([Slides](/files/ja2025.pdf))
   
-  * May 2025: AGNT at Ben Gurion University, Be'er Sheva (online)\
+  * May 2025: AGNT seminar at Ben Gurion University, Be'er Sheva (online)\
     Refined Chabauty–Kim computations for the thrice-punctured line over **Z**[1/6] ([Slides](/files/bgu2025.pdf))
 
   * May 2025: GAUS Seminar, Heidelberg\
