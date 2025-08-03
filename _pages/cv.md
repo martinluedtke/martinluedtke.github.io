@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-  * Aug 2025 – present: **Minerva fellow**, University of Oldenburg, in cooperation with Ben Gurion University
+  * Aug 2025 – present: **Minerva fellow**, University of Oldenburg, in cooperation with Ben-Gurion University
   * Feb 2025 – Jul 2025: **MPIM postdoc scholarship**, Max Planck Institute for Mathematics, Bonn (Germany)
   * Oct 2021 – Jan 2025: **Postdoctoral researcher**, Rijksuniversiteit Groningen (Netherlands)\
     Research on non-abelian Chabauty in the group of [Steffen Müller](https://www.rug.nl/staff/steffen.muller/)
