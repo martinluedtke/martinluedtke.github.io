@@ -74,7 +74,7 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     many choices of p. The preprint is [here](https://arxiv.org/pdf/2305.09462.pdf).
   
   * With Xiang Li, I am extending the Chabauty–Kim method for the thrice-punctured line to number fields,
-    in particular cyclotomic fields. We can show that Kim's Conjecture holds for **Z**[ζ₃]-points but,
+    in particular cyclotomic fields. We can show that Kim's Conjecture holds for **Z**[ζ₃]-points but
     the polylogarithmic quotient is insufficient to prove Kim's Conjecture for integral points over imaginary
     quadratic fields different from **Q**(ζ₃).
 
