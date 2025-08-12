@@ -39,7 +39,7 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     hyperbolic curves, a refined version of the method due to A. Betts and N. Dogra
     often gives stronger results. The first explicit calculations using this method
     were carried out by our project group at the 2020 Arizona Winter School.
-    We could solve the _S_-unit equation in cases where _S_ contains 2 primes
+    We could solve the _S_-unit equation in cases where _S_ contains two primes
     (see [here](https://arxiv.org/pdf/2106.10145.pdf) for the paper and
     [here](https://github.com/martinluedtke/dcw_coefficients){:target="_blank"}{:rel="noopener noreferrer"}
     for the Sage code). These calculations in depth 2 were insufficient to
@@ -72,6 +72,11 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     carried this out for **Z**[1/2]-integral points on the thrice-punctured line, thereby
     obtaining the first nontrivial example of a curve where Kim's conjecture is proved for infinitely
     many choices of p. The preprint is [here](https://arxiv.org/pdf/2305.09462.pdf).
+  
+  * With Xiang Li, I am extending the Chabauty–Kim method for the thrice-punctured line to number fields,
+    in particular cyclotomic fields. We can show that Kim's Conjecture holds for **Z**[ζ₃]-points but,
+    the polylogarithmic quotient is insufficient to prove Kim's Conjecture for integral points over imaginary
+    quadratic fields different from **Q**(ζ₃).
 
   * The p-adic section conjecture for a smooth projective curve X over a
     finite extension K of _**Q**<sub>p</sub>_ predicts that every section of the
