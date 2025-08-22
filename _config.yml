@@ -83,7 +83,7 @@ author:
   name             : "Martin Lüdtke"
   avatar           : "profile.png"
   bio              : "Arithmetic geometer"
-  location         : "Groningen, Netherlands"
+  location         : # "Groningen, Netherlands"
   employer         :
   pubmed           :
   googlescholar    :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  rug_profile      : "https://www.rug.nl/staff/m.w.ludtke/"
+  rug_profile      : # "https://www.rug.nl/staff/m.w.ludtke/"
   arxiv            : "https://arxiv.org/a/0000-0002-3709-3621"
 
 
