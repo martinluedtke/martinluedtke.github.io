@@ -42,5 +42,5 @@ author_profile: true
 
 ## Supervised students
 
-  * Niek Veltman (BSc): "Linear relations of multiple zeta values" (2022)
   * Arif Batiray (BSc): "The number of roots of a random p-adic polynomial" (2025)
+  * Niek Veltman (BSc): "Linear relations of multiple zeta values" (2022)
