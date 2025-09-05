@@ -11,6 +11,10 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
 {% endif %}
+
+  * September 2025: Arithmetic and Algebraic Geometry Week, Iași\
+    Abel–Jacobi images in the generalised Jacobian
+    
   * June 2025: 33èmes Journées Arithmétiques, Luxembourg\
     Affine Chabauty I ([Slides](/files/ja2025.pdf))
   
