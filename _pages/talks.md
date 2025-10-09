@@ -12,7 +12,10 @@ author_profile: true
 
 {% endif %}
 
-  * September 2025: Arithmetic and Algebraic Geometry Week, Iași\
+  * Oct 2025: Arithmetic and Algebraic Geometry seminar at UvA, Amsterdam\
+    Affine Chabauty
+  
+  * Sep 2025: Arithmetic and Algebraic Geometry Week, Iași\
     Abel–Jacobi images in the generalised Jacobian
     
   * June 2025: 33èmes Journées Arithmétiques, Luxembourg\
