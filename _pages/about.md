@@ -10,6 +10,7 @@ redirect_from:
 
 I am a Minerva fellow at the University of Oldenburg in cooperation with Ben-Gurion University.
 Until January 2025 I was a postdoc in the group of Steffen Müller at the University of Groningen, Netherlands.
+From February to July 2025 I was a postdoc at the Max Planck Institute for Mathematics, Bonn. 
 
 ### Research interests
 
