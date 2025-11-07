@@ -45,14 +45,14 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     [here](https://github.com/martinluedtke/dcw_coefficients){:target="_blank"}{:rel="noopener noreferrer"}
     for the Sage code). These calculations in depth 2 were insufficient to
     verify Kim's conjecture for _S = {2,3}_ for any choice of auxiliary prime _p_.
-    Recently, I derived new Kim functions for the Chabauty–Kim locus in depth 4
+    More recently, I derived new Kim functions for the Chabauty–Kim locus in depth 4
     and used them to verify Kim's conjecture for _S = {2,3}_ for all _p < 10,000_.
     The paper is [here](https://doi.org/10.1007/s40993-024-00597-4) and the
     accompanying Sage code is
     [here](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"}.
   
   * In ongoing work with Marius Leonhardt I am developing a Chabauty–Coleman method for
-    determining S-integral points on affine curves using the generalised Jacobian. 
+    determining and bounding the number of S-integral points on affine curves using the generalised Jacobian. 
     This method is applicable whenever a certain inequality involving the Mordell–Weil rank,
     the genus, the number of cusps, and the size of S is satisfied. This is the analogue
     of the rank-genus inequality in the classical Chabauty method. This inequality
