@@ -36,6 +36,14 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
 
 ### Recent and current research
 
+  * In joint work with Marius Leonhardt I am developing a Chabauty–Coleman method for
+    determining and bounding the number of S-integral points on affine curves using the generalised Jacobian. 
+    This method is applicable whenever a certain inequality involving the Mordell–Weil rank,
+    the genus, the number of cusps, and the size of S is satisfied. This is the analogue
+    of the rank-genus inequality in the classical Chabauty method. Our results will be 
+    published in two parts, the first one ("Affine Chabauty I") is 
+    [here](https://arxiv.org/abs/2511.15949){:target="_blank"}{:rel="noopener noreferrer"}.
+
   * When applying the Chabauty–Kim method to study S-integral points on _affine_
     hyperbolic curves, a refined version of the method due to A. Betts and N. Dogra
     often gives stronger results. The first explicit calculations using this method
@@ -50,15 +58,6 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     The paper is [here](https://doi.org/10.1007/s40993-024-00597-4) and the
     accompanying Sage code is
     [here](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"}.
-  
-  * In ongoing work with Marius Leonhardt I am developing a Chabauty–Coleman method for
-    determining and bounding the number of S-integral points on affine curves using the generalised Jacobian. 
-    This method is applicable whenever a certain inequality involving the Mordell–Weil rank,
-    the genus, the number of cusps, and the size of S is satisfied. This is the analogue
-    of the rank-genus inequality in the classical Chabauty method. This inequality
-    and its non-abelian generalisation to the quadratic Chabauty method were first derived
-    in joint work with J. S. Müller and M. Leonhardt. The paper is
-    [here](https://doi.org/10.1093/imrn/rnad185){:target="_blank"}{:rel="noopener noreferrer"}.
 
   * With D. Corwin and I. Dan-Cohen, we are developing and applying the mixed Tate motivic
     Chabauty–Kim method for the thrice-punctured line beyond the polylogarithmic quotient
