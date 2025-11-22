@@ -36,7 +36,7 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
 
 ### Recent and current research
 
-  * In joint work with Marius Leonhardt I am developing a Chabauty–Coleman method for
+  * In joint work with Marius Leonhardt I developed a Chabauty–Coleman method for
     determining and bounding the number of S-integral points on affine curves using the generalised Jacobian. 
     This method is applicable whenever a certain inequality involving the Mordell–Weil rank,
     the genus, the number of cusps, and the size of S is satisfied. This is the analogue
