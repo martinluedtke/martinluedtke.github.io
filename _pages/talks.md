@@ -12,6 +12,9 @@ author_profile: true
 
 {% endif %}
 
+  * Jan 2026: AGNT seminar at Ben Gurion University, Be'er Sheva (online)\
+    Affine Chabauty
+
   * Oct 2025: Arithmetic and Algebraic Geometry seminar at UvA, Amsterdam\
     Affine Chabauty
   
