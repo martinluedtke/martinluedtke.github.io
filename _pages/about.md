@@ -40,9 +40,10 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     determining and bounding the number of S-integral points on affine curves using the generalised Jacobian. 
     This method is applicable whenever a certain inequality involving the Mordell–Weil rank,
     the genus, the number of cusps, and the size of S is satisfied. This is the analogue
-    of the rank-genus inequality in the classical Chabauty method. Our results will be 
-    published in two parts, the first one ("Affine Chabauty I") is 
-    [here](https://arxiv.org/abs/2511.15949){:target="_blank"}{:rel="noopener noreferrer"}.
+    of the rank-genus inequality in the classical Chabauty method. The theory is developed in 
+    ["Affine Chabauty I"](https://arxiv.org/abs/2511.15949){:target="_blank"}{:rel="noopener noreferrer"};
+    the resulting algorithm is presented in 
+    ["Affine Chabauty II"](https://arxiv.org/abs/2602.05643){:target="_blank"}{:rel="noopener noreferrer"}.
 
   * When applying the Chabauty–Kim method to study S-integral points on _affine_
     hyperbolic curves, a refined version of the method due to A. Betts and N. Dogra

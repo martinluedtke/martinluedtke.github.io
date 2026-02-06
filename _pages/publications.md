@@ -13,11 +13,15 @@ author_profile: true
 
 ## Preprints
 
+  * [Affine Chabauty II](https://arxiv.org/pdf/2602.05643)\
+    with M. Leonhardt\
+    [arXiv:2602.05643](https://arxiv.org/abs/2602.05643){:target="_blank"}{:rel="noopener noreferrer"}
+
   * [Affine Chabauty I](https://arxiv.org/pdf/2511.15949)\
     with M. Leonhardt\
     [arXiv:2511.15949](https://arxiv.org/abs/2511.15949){:target="_blank"}{:rel="noopener noreferrer"}
 
-  * [Chabauty–Kim and the Section Conjecture for locally geometric sections](https://arxiv.org/pdf/2305.09462.pdf)\
+  * [Chabauty–Kim and the Section Conjecture for locally geometric sections](https://arxiv.org/pdf/2305.09462)\
     with L. A. Betts and T. Kumpitsch\
     May 2023, submitted\
     [arXiv:2305.09462](https://arxiv.org/abs/2305.09462){:target="_blank"}{:rel="noopener noreferrer"}
