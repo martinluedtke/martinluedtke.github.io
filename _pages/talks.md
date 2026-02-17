@@ -12,6 +12,9 @@ author_profile: true
 
 {% endif %}
 
+  * Feb 2026: Groningen algebra seminar\
+    Affine Chabauty
+
   * Jan 2026: AGNT seminar at Ben Gurion University, Be'er Sheva (online)\
     Affine Chabauty
 
