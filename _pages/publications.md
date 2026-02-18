@@ -23,7 +23,7 @@ author_profile: true
 
   * [Chabauty–Kim and the Section Conjecture for locally geometric sections](https://arxiv.org/pdf/2305.09462)\
     with L. A. Betts and T. Kumpitsch\
-    May 2023, submitted\
+    submitted\
     [arXiv:2305.09462](https://arxiv.org/abs/2305.09462){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Publications
