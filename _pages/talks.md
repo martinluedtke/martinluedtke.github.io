@@ -12,6 +12,9 @@ author_profile: true
 
 {% endif %}
 
+  * May 2026: Online "Selminar" on Selmer schemes by M. Kim\
+    Polylogarithmic Chabauty–Kim loci over number fields ([Slides](/files/selminar2026.pdf))
+
   * Feb 2026: Groningen algebra seminar\
     Affine Chabauty
 
