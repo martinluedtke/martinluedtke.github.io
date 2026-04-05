@@ -36,6 +36,10 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
 
 ### Recent and current research
 
+  * With D. Corwin, we are applying the mixed elliptic motivic Chabauty–Kim method in depth 3 
+    to the problem of determining S-integral points on rank 1 elliptic curves. An initial report
+    on our computations can be found [here](https://martinluedtke.github.io/files/corwin_luedtke_initial_report_2026.pdf).
+
   * In joint work with Marius Leonhardt I developed a Chabauty–Coleman method for
     determining and bounding the number of S-integral points on affine curves using the generalised Jacobian. 
     This method is applicable whenever a certain inequality involving the Mordell–Weil rank,
