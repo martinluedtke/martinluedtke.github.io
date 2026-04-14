@@ -76,7 +76,7 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
     by verifying Kim's conjecture for almost all choices of p. We successfully
     carried this out for **Z**[1/2]-integral points on the thrice-punctured line, thereby
     obtaining the first nontrivial example of a curve where Kim's conjecture is proved for infinitely
-    many choices of p. The preprint is [here](https://arxiv.org/pdf/2305.09462.pdf).
+    many choices of p. The preprint is [here](https://arxiv.org/pdf/2305.09462).
   
   * With Xiang Li, I am extending the Chabauty–Kim method for the thrice-punctured line to number fields,
     in particular cyclotomic fields. We can show that Kim's Conjecture holds for **Z**[ζ₃]-points but
