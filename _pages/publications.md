@@ -15,7 +15,7 @@ author_profile: true
 
   * [Affine Chabauty II](https://arxiv.org/pdf/2602.05643)\
     with M. Leonhardt\
-    submitted\
+    accepted at Research in Number Theory, ANTS XVII proceedings\
     [arXiv:2602.05643](https://arxiv.org/abs/2602.05643){:target="_blank"}{:rel="noopener noreferrer"}\
     Sage code: [https://github.com/martinluedtke/AffChab2](https://github.com/martinluedtke/AffChab2){:target="_blank"}{:rel="noopener noreferrer"}
 
