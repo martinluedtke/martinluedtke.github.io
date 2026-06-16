@@ -12,6 +12,9 @@ author_profile: true
 
 {% endif %}
 
+  * June 2026: Oberseminar Algebra, Oldenburg\
+    Affine Chabauty
+  
   * March 2026: Online "Selminar" on Selmer schemes by M. Kim\
     Polylogarithmic Chabauty–Kim loci over number fields ([Slides](/files/selminar2026.pdf))
 
