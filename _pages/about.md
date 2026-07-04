@@ -34,6 +34,11 @@ to the realm of explicit calculations.
 
 Chabauty–Kim method, section conjecture, arithmetic fundamental group, rational points
 
+### ChaBONNty
+
+With S. Gajović and O. Padurariu I organised the [ChaBONNty](https://www.mpim-bonn.mpg.de/ChaBONNty) conference at the MPIM Bonn.
+!(/files/chabonnty.jpeg)
+
 ### Recent and current research
 
   * With D. Corwin, we are applying the mixed elliptic motivic Chabauty–Kim method in depth 3 
