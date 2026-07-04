@@ -37,7 +37,7 @@ Chabauty–Kim method, section conjecture, arithmetic fundamental group, rationa
 ### ChaBONNty
 
 With S. Gajović and O. Padurariu I organised the [ChaBONNty](https://www.mpim-bonn.mpg.de/ChaBONNty) conference at the MPIM Bonn.
-!(/files/chabonnty.jpeg)
+![ChaBONNty organisers](/files/chabonnty.jpeg)
 
 ### Recent and current research
 
