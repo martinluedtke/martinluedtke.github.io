@@ -19,7 +19,7 @@ author_profile: true
     Sage code: [https://github.com/martinluedtke/PolylogNF](https://github.com/martinluedtke/PolylogNF){:target="_blank"}{:rel="noopener noreferrer"}
 
   * [The motivic Selmer scheme of the thrice-punctured line](https://arxiv.org/pdf/2608.11509)\
-    [arXiv:2608.11509](https://arxiv.org/abs/2608.11509){:target="_blank"}{:rel="noopener noreferrer"}\
+    [arXiv:2608.11509](https://arxiv.org/abs/2608.11509){:target="_blank"}{:rel="noopener noreferrer"}
 
   * [Affine Chabauty II](https://arxiv.org/pdf/2602.05643)\
     with M. Leonhardt\
