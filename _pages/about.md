@@ -41,6 +41,21 @@ With S. Gajović and O. Padurariu I organised the [ChaBONNty](https://www.mpim-b
 
 ### Recent and current research
 
+  * In joint work with Xiang Li, I make the motivic polylogarithmic Chabauty–Kim method for the 
+    thrice-punctured line explicit over number fields. We apply this for imaginary and real quadratic fields
+    and obtain both proofs and counterexamples for Kim's Conjecture. For example, we can show that Kim's Conjecture 
+    holds for **Z**[ζ₃]-points but the polylogarithmic quotient is insufficient to prove Kim's Conjecture for 
+    integral points over imaginary quadratic fields different from **Q**(ζ₃). The preprint is 
+    [here](https://arxiv.org/abs/2608.20615). Follow-up work with M. Kim and X. Li studied the method
+    over the cyclotomic field **Q**(ζ₈),
+  
+  * The motivic Selmer scheme of the thrice-punctured line is the central object in the mixed Tate motivic
+    Chabauty–Kim method for **P**¹ minus three points. In my recent [preprint](https://arxiv.org/abs/2608.11509),
+    I give several equivalent descriptions of the motivic Selmer scheme which make it amenable to computation.
+    I prove that it is isomorphic to an affine space over **Q** and construct coordinate funcions realising
+    this isomorphism. This is a key ingredient for applying the Chabauty--Kim method over number fields
+    (cf. work with Xiang Li) or for non-polylogarithmic quotients (cf. work with Corwin and Dan-Cohen).
+
   * With D. Corwin, we are applying the mixed elliptic motivic Chabauty–Kim method in depth 3 
     to the problem of determining S-integral points on rank 1 elliptic curves. An initial report
     on our computations can be found [here](https://martinluedtke.github.io/files/corwin_luedtke_initial_report_2026.pdf).
@@ -82,11 +97,6 @@ With S. Gajović and O. Padurariu I organised the [ChaBONNty](https://www.mpim-b
     carried this out for **Z**[1/2]-integral points on the thrice-punctured line, thereby
     obtaining the first nontrivial example of a curve where Kim's conjecture is proved for infinitely
     many choices of p. The preprint is [here](https://arxiv.org/pdf/2305.09462).
-  
-  * With Xiang Li, I am extending the Chabauty–Kim method for the thrice-punctured line to number fields,
-    in particular cyclotomic fields. We can show that Kim's Conjecture holds for **Z**[ζ₃]-points but
-    the polylogarithmic quotient is insufficient to prove Kim's Conjecture for integral points over imaginary
-    quadratic fields different from **Q**(ζ₃).
 
   * The p-adic section conjecture for a smooth projective curve X over a
     finite extension K of _**Q**<sub>p</sub>_ predicts that every section of the
