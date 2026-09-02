@@ -13,6 +13,11 @@ author_profile: true
 
 ## Preprints
 
+  * [Nonabelian Chabauty for the Thrice-punctured Line over Cyclotomic Fields](https://arxiv.org/pdf/2609.01128)\
+    with Minhyong Kim and Xiang Li\
+    [arXiv:2609.01128](https://arxiv.org/abs/2609.01128){:target="_blank"}{:rel="noopener noreferrer"}\
+    Sage code: [https://github.com/martinluedtke/PolylogNF](https://github.com/martinluedtke/PolylogNF){:target="_blank"}{:rel="noopener noreferrer"}
+
   * [Polylogarithmic Chabauty–Kim loci over number fields](https://arxiv.org/pdf/2608.20615)\
     with Xiang Li\
     [arXiv:2608.20615](https://arxiv.org/abs/2608.20615){:target="_blank"}{:rel="noopener noreferrer"}\

@@ -46,8 +46,8 @@ With S. Gajović and O. Padurariu I organised the [ChaBONNty](https://www.mpim-b
     and obtain both proofs and counterexamples for Kim's Conjecture. For example, we can show that Kim's Conjecture 
     holds for **Z**[ζ₃]-points but the polylogarithmic quotient is insufficient to prove Kim's Conjecture for 
     integral points over imaginary quadratic fields different from **Q**(ζ₃). The preprint is 
-    [here](https://arxiv.org/abs/2608.20615). In follow-up work with M. Kim and X. Li, we apply the method
-    over the cyclotomic field **Q**(ζ₈),
+    [here](https://arxiv.org/abs/2608.20615). In the [follow-up work](https://arxiv.org/abs/2609.01128) with 
+    Minhyong Kim and Xiang Li, we apply the method over the cyclotomic field **Q**(ζ₈).
   
   * The motivic Selmer scheme of the thrice-punctured line is the central object in the mixed Tate motivic
     Chabauty–Kim method for **P**¹ minus three points. In my recent [preprint](https://arxiv.org/abs/2608.11509),
