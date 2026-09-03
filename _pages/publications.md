@@ -13,7 +13,7 @@ author_profile: true
 
 ## Preprints
 
-  * [Nonabelian Chabauty for the Thrice-punctured Line over Cyclotomic Fields](https://arxiv.org/pdf/2609.01128)\
+  * *Nonabelian Chabauty for the Thrice-punctured Line over Cyclotomic Fields*\
     with Minhyong Kim and Xiang Li\
     [arXiv:2609.01128](https://arxiv.org/abs/2609.01128){:target="_blank"}{:rel="noopener noreferrer"}\
     Sage code: [https://github.com/martinluedtke/PolylogNF](https://github.com/martinluedtke/PolylogNF){:target="_blank"}{:rel="noopener noreferrer"}
