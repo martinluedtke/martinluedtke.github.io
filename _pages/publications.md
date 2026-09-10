@@ -14,8 +14,7 @@ author_profile: true
 ## Preprints
 
   * *Nonabelian Chabauty for the Thrice-punctured Line over Cyclotomic Fields*\
-    with Minhyong Kim and Xiang Li\
-    submitted\
+    with Minhyong Kim and Xiang Li (submitted)\
     [arXiv:2609.01128](https://arxiv.org/abs/2609.01128){:target="_blank"}{:rel="noopener noreferrer"}\
     Sage code: [https://github.com/martinluedtke/PolylogNF](https://github.com/martinluedtke/PolylogNF){:target="_blank"}{:rel="noopener noreferrer"}
 
@@ -34,8 +33,7 @@ author_profile: true
     Sage code: [https://github.com/martinluedtke/AffChab2](https://github.com/martinluedtke/AffChab2){:target="_blank"}{:rel="noopener noreferrer"}
 
   * *Affine Chabauty I*\
-    with M. Leonhardt\
-    submitted\
+    with M. Leonhardt (submitted)\
     [arXiv:2511.15949](https://arxiv.org/abs/2511.15949){:target="_blank"}{:rel="noopener noreferrer"}\
     Sage code: [https://github.com/martinluedtke/AffChab1](https://github.com/martinluedtke/AffChab1){:target="_blank"}{:rel="noopener noreferrer"}
 
