@@ -19,7 +19,7 @@ author_profile: true
     Sage code: [https://github.com/martinluedtke/PolylogNF](https://github.com/martinluedtke/PolylogNF){:target="_blank"}{:rel="noopener noreferrer"}
 
   * *Polylogarithmic Chabauty–Kim loci over number fields*\
-    with Xiang Li\
+    with Xiang Li (submitted)\
     [arXiv:2608.20615](https://arxiv.org/abs/2608.20615){:target="_blank"}{:rel="noopener noreferrer"}\
     Sage code: [https://github.com/martinluedtke/PolylogNF](https://github.com/martinluedtke/PolylogNF){:target="_blank"}{:rel="noopener noreferrer"}
 
