@@ -13,6 +13,10 @@ author_profile: true
 
 ## Preprints
 
+  * *Mixed Tate Chabauty–Kim beyond the polylog quotient*\
+    with David Corwin and Ishai Dan-Cohen\
+    [arXiv:2610.25365](https://arxiv.org/abs/2610.25365){:target="_blank"}{:rel="noopener noreferrer"}\
+
   * *Nonabelian Chabauty for the Thrice-punctured Line over Cyclotomic Fields*\
     with Minhyong Kim and Xiang Li (submitted)\
     [arXiv:2609.01128](https://arxiv.org/abs/2609.01128){:target="_blank"}{:rel="noopener noreferrer"}\

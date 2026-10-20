@@ -41,6 +41,12 @@ With S. Gajović and O. Padurariu I organised the [ChaBONNty](https://www.mpim-b
 
 ### Recent and current research
 
+  * With D. Corwin and I. Dan-Cohen, we developed and applyied the mixed Tate motivic
+    Chabauty–Kim method for the thrice-punctured line beyond the polylogarithmic quotient
+    of the fundamental group. We obtain new constraints on Chabauty–Kim loci
+    by using functions involving p-adic _multiple_ polylogarithms (rather than just single
+    polylogarithms). The preprint is [here](https://arxiv.org/abs/2610.25365).
+
   * In joint work with Xiang Li, I make the motivic polylogarithmic Chabauty–Kim method for the 
     thrice-punctured line explicit over number fields. We apply this for imaginary and real quadratic fields
     and obtain both proofs and counterexamples for Kim's Conjecture. For example, we can show that Kim's Conjecture 
@@ -83,12 +89,6 @@ With S. Gajović and O. Padurariu I organised the [ChaBONNty](https://www.mpim-b
     The paper is [here](https://doi.org/10.1007/s40993-024-00597-4) and the
     accompanying Sage code is
     [here](https://github.com/martinluedtke/RefinedCK){:target="_blank"}{:rel="noopener noreferrer"}.
-
-  * With D. Corwin and I. Dan-Cohen, we are developing and applying the mixed Tate motivic
-    Chabauty–Kim method for the thrice-punctured line beyond the polylogarithmic quotient
-    of the fundamental group. We obtain new constraints on Chabauty–Kim loci
-    by using functions involving p-adic _multiple_ polylogarithms (rather than just single
-    polylogarithms).
 
   * Kim's conjecture predicts that the set of p-adic points produced by the Chabauty–Kim method
     agrees precisely with the set of S-integral points of the curve. With A. Betts and T. Kumpitsch
