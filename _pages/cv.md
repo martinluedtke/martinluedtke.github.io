@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-  * Nov 2026 – present: **Postdoctoral researcher**, University of Pisa (Italy)\
+  * Nov 2026 – present: **Postdoctoral researcher**, University of Pisa (Italy)
   * Aug 2025 – Oct 2026: **Minerva fellow**, University of Oldenburg, in cooperation with Ben-Gurion University
   * Feb 2025 – Jul 2025: **MPIM postdoc scholarship**, Max Planck Institute for Mathematics, Bonn (Germany)
   * Oct 2021 – Jan 2025: **Postdoctoral researcher**, Rijksuniversiteit Groningen (Netherlands)\
